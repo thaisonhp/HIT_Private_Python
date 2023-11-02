@@ -50,5 +50,5 @@ print('Tong so bit can de luu tru la:' ,len(bit_interger) + len(bit_decimal))
 
 
 # ý b 
-# a = 10 
-# print(dir(a))
+a = 10 
+print(dir(a))
